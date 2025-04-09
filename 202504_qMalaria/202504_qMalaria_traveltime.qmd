@@ -1,0 +1,49 @@
+---
+title: "Mapping malaria vector spatial sampling bias with a new R package for calculating travel time"
+author: Gerry Ryan
+format:
+  beamer:
+    colortheme: seagull
+    #theme: acefa-iddu
+    # colortheme: beamercolorthemeacefa-iddu
+    # innertheme: beamerinnerthemeacefa-iddu
+    # outertheme: beamerouterthemeacefa-iddu
+    keep-tex: true
+    number-sections: false
+    aspectratio: 149
+editor: source
+---
+
+## Sampling bias
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Humans collect mosquito records for many reasons
+- Those records are spatially biased
+- Bias is a problem to mapping spatial distributions of species
+:::
+
+::: {.column width="60%"}
+![*Anopheles gambiae* records in Africa, Sinka et al. 2011](images/parasitesvectors_sinka_2011_fig1.png)
+:::
+
+::::
+
+
+
+
+## two col template
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- text
+- more
+:::
+
+::: {.column width="40%"}
+![s](~/Documents/tki_work/covid_modelling/covid19_behaviour_australia/outputs/figures/mobility/state/VIC_mobility_all.png)
+:::
+
+::::
