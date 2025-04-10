@@ -21,7 +21,7 @@ editor: source
 ::: {.column width="40%"}
 - Humans collect mosquito records for many reasons
 - Those records are spatially biased
-- Bias is a problem to mapping spatial distributions of species
+- Bias is a problem for mapping the spatial distributions of species
 :::
 
 ::: {.column width="60%"}
@@ -30,7 +30,11 @@ editor: source
 
 ::::
 
+___
 
+![](images/biased_samping_schematic.png)
+
+___
 
 
 ## two col template
